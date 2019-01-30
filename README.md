@@ -15,5 +15,18 @@ SpaceSniffer是一个可以让您硬盘中文件和文件夹的分布情况的�
 Review Assistant 是 Visual Studio 中的一个加载项工具，它的作用是帮你进行代码审查，这样可以大大简化程序员的工作，提高效率，并且检查出一些肉眼不容易看到的错误。一个项目三个人可以无限期试用。
 Review Assistant is a  code review tool. Our code review plugin helps you to create review requests and respond to them without leaving Visual Studio. Review Assistant supports TFS, Subversion, Git, Mercurial, and Perforce. Simple setup: up and running in 5 minutes.Review Assistant is free of charge for 1 project with up to 3 participants.
 
+-4、listary
+Listary 是一款实用的搜索工具 ，它能给“我的电脑”（资源管理器）加上许多智能命令，含有收藏文件夹，快速打开最近浏览的文件夹，快速显示/隐藏文件扩展名等等实用功能。能给你日常的收藏和整理文件提高效率。
+A truly amazing and polished search utility that is somewhere between a launcher and a file manager, both but neither. Listary lives next to your major file management apps and makes managing their lists and finding files a breeze. Really something special and worth your download.
+
+-5、everything
+
+Everything是速度最快的文件搜索软件，可以瞬间搜索到你需要的文件。
+Locate files and folders by name instantly.
+
+-6、Snipaste ([绿色版本x64](https://download.csdn.net/download/chenqiai0/10945164))
+
+Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上！下载并打开 Snipaste，按下 F1 来开始截图，再按 F3，截图就在桌面置顶显示了。就这么简单！
+Snipaste is a simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen. Download and start the application, press F1 to start snipping, then press F3 to paste it as a floating window. That's it! 
 
 参考:https://github.com/stackia/best-windows-apps
