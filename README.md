@@ -29,4 +29,8 @@ Locate files and folders by name instantly.
 Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上！下载并打开 Snipaste，按下 F1 来开始截图，再按 F3，截图就在桌面置顶显示了。就这么简单！
 Snipaste is a simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen. Download and start the application, press F1 to start snipping, then press F3 to paste it as a floating window. That's it! 
 
+-7、Navicat Premium([破解版](https://download.csdn.net/download/chenqiai0/11319954))
+
+Navicat Premium 是一套数据库开发工具，让你从单一应用程序中同时连接 MySQL、MariaDB、MongoDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库。它与 Amazon RDS、Amazon Aurora、Amazon Redshift、Microsoft Azure、Oracle Cloud、MongoDB Atlas、阿里云、腾讯云和华为云等云数据库兼容。你可以快速轻松地创建、管理和维护数据库。 下载地址中，除了安装包，还有一个破解文件。
+
 参考:https://github.com/stackia/best-windows-apps
