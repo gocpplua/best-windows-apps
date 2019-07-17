@@ -38,5 +38,8 @@ Navicat Premium 是一套数据库开发工具，让你从单一应用程序中�
 Review Assistant 是 Visual Studio 中的一个加载项工具，它的作用是帮你进行代码审查，这样可以大大简化程序员的工作，提高效率，并且检查出一些肉眼不容易看到的错误。一个项目三个人可以无限期试用。
 Review Assistant is a  code review tool. Our code review plugin helps you to create review requests and respond to them without leaving Visual Studio. Review Assistant supports TFS, Subversion, Git, Mercurial, and Perforce. Simple setup: up and running in 5 minutes.Review Assistant is free of charge for 1 project with up to 3 participants.
 
+-9、向日葵X:远控电脑([官方下载链接](https://sunlogin.oray.com/personal/))
+
+全新的向日葵X更加适合个人用户群体，并且带来了更小更快的远控体验，软件大小只有5MB，速度提升了20%-30%。
 
 参考:https://github.com/stackia/best-windows-apps
