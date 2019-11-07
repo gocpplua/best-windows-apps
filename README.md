@@ -50,4 +50,9 @@ Review Assistant is a  code review tool. Our code review plugin helps you to cre
   
   ProcessOn是一款基于HTML5和JavaScript技术开发而成。 操作简单、方便的同时也是一款专业的垂直在线作图工具。使用ProcessOn不需要下载和安装，更不需要破解和激活， 打开浏览器即可在线操作所有数据实时云端存储， 同时支持多人在线实时协作，从此再也不需要和同事， 领导之间来回传送文件，直接邀请，一起协作完成。ProcessOn目前已经支持流程图、原型设计、软件建模、 以及思维导图等四大领域在线作图。ProcessOn同时也是一款免费的在线作图工具。 如果你也是新手，工作需要画画图，ProcessOn就是你最合适的选择！
 
+
+- 12、ForceAllUtf8 (but Java) with BOM([官方下载链接](https://marketplace.visualstudio.com/items?itemName=LancelotChen.lancelotchen-forceallutf8))
+
+    Visual Studio Extension : Force all saved files to encoding utf8 with BOM, but Java file encoding to utf8 without BOM. 我在实际使用VS编码时，当用source tree上传代码，中文经常乱码，使用这个工具就好了。
+
 参考:https://github.com/stackia/best-windows-apps
