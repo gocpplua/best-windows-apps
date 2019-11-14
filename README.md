@@ -55,4 +55,8 @@ Review Assistant is a  code review tool. Our code review plugin helps you to cre
 
     Visual Studio Extension : Force all saved files to encoding utf8 with BOM, but Java file encoding to utf8 without BOM. 我在实际使用VS编码时，当用source tree上传代码，中文经常乱码，使用这个工具就好了。
 
+- 13、软媒清理大师 ([下载链接](https://download.csdn.net/download/chenqiai0/11976027))
+
+    软媒清理大师绿色版本，去掉大部分广告，开机自启动需手动关闭，其他完美，包含清理大师，文件大师，测速，去开机自动动等非常多的实用功能。
+
 参考:https://github.com/stackia/best-windows-apps
