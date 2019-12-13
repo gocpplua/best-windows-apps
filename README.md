@@ -59,4 +59,16 @@ Review Assistant is a  code review tool. Our code review plugin helps you to cre
 
     软媒清理大师绿色版本，去掉大部分广告，开机自启动需手动关闭，其他完美，包含清理大师，文件大师，测速，去开机自动动等非常多的实用功能。
 
+- 14、Cute Http File Server([官方下载链接](https://iscute.cn/))
+
+    CuteHttpFileServer/chfs是一个免费的、HTTP协议的文件共享服务器，使用浏览器可以快速访问。它具有以下特点：
+    单个文件，核心功能无需其他文件
+    跨平台运行，支持主流平台：Windows，Linux和Mac
+    界面简洁，简单易用
+    支持扫码下载和手机端访问，手机与电脑之间共享文件非常方便
+    支持账户权限控制和地址过滤
+    支持快速分享文字片段
+    支持webdav协议
+    与其他常用文件共享方式（如FTP，飞秋，网盘，自己建站）相比，具有使用简单，适用场景更多的优点，在个人使用以及共享给他人的场景中非常方便快捷。
+
 参考:https://github.com/stackia/best-windows-apps
