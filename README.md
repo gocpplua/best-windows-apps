@@ -71,4 +71,7 @@ Review Assistant is a  code review tool. Our code review plugin helps you to cre
     支持webdav协议
     与其他常用文件共享方式（如FTP，飞秋，网盘，自己建站）相比，具有使用简单，适用场景更多的优点，在个人使用以及共享给他人的场景中非常方便快捷。
 
+- 15、FileLocator([官方下载链接](https://www.mythicsoft.com/filelocatorlite/download/))
+    专业的文件搜索软件，它内置了多种灵活的搜索规则来快速定位文件，如逻辑判断、通配符、正则表达式、日期/属性等，内置脚本支持可以实现更复杂的搜索操作，搜索结果也可保存为 Text、CSV、XML/HTML 等格式存档。
+
 参考:https://github.com/stackia/best-windows-apps
