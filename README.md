@@ -74,4 +74,8 @@ Review Assistant is a  code review tool. Our code review plugin helps you to cre
 - 15、FileLocator([官方下载链接](https://www.mythicsoft.com/filelocatorlite/download/))
     专业的文件搜索软件，它内置了多种灵活的搜索规则来快速定位文件，如逻辑判断、通配符、正则表达式、日期/属性等，内置脚本支持可以实现更复杂的搜索操作，搜索结果也可保存为 Text、CSV、XML/HTML 等格式存档。
 
+- 16、Wox([官方下载](https://github.com/Wox-launcher/Wox/releases))
+    
+    Wox: An effective launcher for windows。
+
 参考:https://github.com/stackia/best-windows-apps
