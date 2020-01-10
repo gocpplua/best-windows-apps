@@ -78,4 +78,8 @@ Review Assistant is a  code review tool. Our code review plugin helps you to cre
     
     Wox: An effective launcher for windows。
 
+- 17、f.lux([官方下载](https://justgetflux.com/))
+
+    一款轻巧的护眼软件，能够根据每天的时间自动调节屏幕的色温，当然屏幕的色温是根据你的设置来调节的，可以设置3个时段，白天，傍晚，和晚上睡觉的时间，可以设置地区，可以根据地区判断时间段，注意爱护眼睛。
+
 参考:https://github.com/stackia/best-windows-apps
