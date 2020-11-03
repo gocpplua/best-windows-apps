@@ -1,7 +1,7 @@
 # best-windows-apps 
 Recommend easy to use, excellent Windows applications:推荐好用、优秀的 Windows 应用
 
-- 0、网易云笔记，WPS，Github，ProcessOn，ShowDoc(即将弃用)
+- 0、网易云笔记,WPS,Github,ProcessOn,MindLine(付费),ShowDoc(即将弃用)
 
 - 1、MarkdownPad 全能 Markdown 编辑器([链接](http://markdownpad.com/download.html))
 
