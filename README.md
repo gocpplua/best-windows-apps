@@ -85,4 +85,7 @@ Review Assistant is a  code review tool. Our code review plugin helps you to cre
 
     一款轻巧的护眼软件，能够根据每天的时间自动调节屏幕的色温，当然屏幕的色温是根据你的设置来调节的，可以设置3个时段，白天，傍晚，和晚上睡觉的时间，可以设置地区，可以根据地区判断时间段，注意爱护眼睛。
 
+- 18、MindLine思维导图([官方下载](http://www.mindline.cn/))
+MindLine思维导图秉承极简设计的原则，没有繁琐的操作和复杂的界面，在这里你可以轻松构思和扩展想法和计划。还提供了强大的云服务备份和同步导图文件，实现不同设备上文件共享，并确保文件不会丢失。登录我的云空间可以在线打开和编辑保存在云空间的导图。 需要注意的是，文件共享需要付费。
+
 参考:https://github.com/stackia/best-windows-apps
