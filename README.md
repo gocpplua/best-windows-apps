@@ -88,4 +88,7 @@ Review Assistant is a  code review tool. Our code review plugin helps you to cre
 - 18、MindLine思维导图([官方下载](http://www.mindline.cn/))
 MindLine思维导图秉承极简设计的原则，没有繁琐的操作和复杂的界面，在这里你可以轻松构思和扩展想法和计划。还提供了强大的云服务备份和同步导图文件，实现不同设备上文件共享，并确保文件不会丢失。登录我的云空间可以在线打开和编辑保存在云空间的导图。 需要注意的是，文件共享需要付费。
 
+- 19、Xshell 7([官方下载](https://www.xshellcn.com/))
+Xshell 7 是更常用的安全终端模拟器，人们可以使用它远程登录其他系统服务器，达到远程控制终端的目的。
+
 参考:https://github.com/stackia/best-windows-apps
