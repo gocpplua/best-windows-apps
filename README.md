@@ -94,4 +94,7 @@ Xshell 7 是更常用的安全终端模拟器，人们可以使用它远程登�
 - 20、RedisDesktopManager
 Redis Desktop Manager（RedisDesktopManager，RDM）是一个快速、简单、支持跨平台的 Redis 桌面管理工具
 
+- 21、Navicat Premium
+Navicat Premium 是一套数据库开发工具，让你从单一应用程序中同时连接 MySQL、MariaDB、MongoDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库。它与 Amazon RDS、Amazon Aurora、Amazon Redshift、Microsoft Azure、Oracle Cloud、MongoDB Atlas、阿里云、腾讯云和华为云等云数据库兼容。你可以快速轻松地创建、管理和维护数据库。
+
 参考:https://github.com/stackia/best-windows-apps
