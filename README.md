@@ -97,4 +97,7 @@ Redis Desktop Manager（RedisDesktopManager，RDM）是一个快速、简单、�
 - 21、SourceTree
 由Atlassian开发的免费Git图形界面工具，可以操作任何Git库。
 
+- 22、VMware Workstation 15 Player
+针对个人用户而开发的一款免费的虚拟机软件，能够让你在一台PC上运行第二个隔离操作系统，支持的客户机操作系统包括Windows 10，Windows 8.X，Windows 7，Windows XP，Ubuntu，CentOS等等，可以让用户在不影响主桌面环境安全轻松运行，从而帮助用户更好的进行在特定的环境下测试程序，开发软件等。
+
 参考:https://github.com/stackia/best-windows-apps
