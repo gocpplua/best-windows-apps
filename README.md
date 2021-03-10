@@ -91,4 +91,7 @@ MindLine思维导图秉承极简设计的原则，没有繁琐的操作和复杂
 - 19、Xshell 7([官方下载](https://www.xshellcn.com/))
 Xshell 7 是更常用的安全终端模拟器，人们可以使用它远程登录其他系统服务器，达到远程控制终端的目的。
 
+- 20、RedisDesktopManager
+Redis Desktop Manager（RedisDesktopManager，RDM）是一个快速、简单、支持跨平台的 Redis 桌面管理工具
+
 参考:https://github.com/stackia/best-windows-apps
