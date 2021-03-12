@@ -103,4 +103,7 @@ Redis Desktop Manager（RedisDesktopManager，RDM）是一个快速、简单、�
 - 23、FileZilla
 FileZilla 客户端是一个快速可靠的、跨平台的FTP,FTPS和SFTP客户端。具有图形用户界面(GUI)和很多有用的特性。
 
+
+- 24、SourceTree 2.5.5 破解版
+破解方法是创建account.json。
 参考:https://github.com/stackia/best-windows-apps
