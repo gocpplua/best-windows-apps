@@ -111,5 +111,6 @@ FileZilla 客户端是一个快速可靠的、跨平台的FTP,FTPS和SFTP客户�
 - 26、draw.io: [传送门](https://github.com/jgraph/drawio-desktop/releases/tag/v14.5.1)
 Draw.io是一款实用的免费流程图绘制工具，它致力于成为完全开源、免费、并且高质量的绘图软件，使用它可以轻松创建图表，适用于商务、工程、电气、网络设计、软件设计等诸多领域的专业绘图。
 
+- 27、TeamViewer:TeamViewer 是全面的远程访问、远程控制及远程支持解决方案，几乎适用于所有桌面和移动平台，包括 Windows、macOS、Android 及 iOS。
 破解方法是创建account.json。
 参考:https://github.com/stackia/best-windows-apps
