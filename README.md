@@ -124,5 +124,7 @@ Draw.io是一款实用的免费流程图绘制工具，它致力于成为完全�
 - 31、[vscode-drawio](https://github.com/hediet/vscode-drawio)
 > VSCode 上画流程图
 
+- 32、Socket.io client tool([v1 for 2.x](https://amritb.github.io/socketio-client-tool/v1/) [v4 for 3.x and above](https://amritb.github.io/socketio-client-tool/))
+
 
 参考:https://github.com/stackia/best-windows-apps
