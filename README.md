@@ -128,4 +128,7 @@ Draw.io是一款实用的免费流程图绘制工具，它致力于成为完全�
 - [ApiPost](https://www.apipost.cn/download.html)
 ApiPost是一个支持团队协作，并可直接生成文档的API调试、管理工具。它支持模拟POST、GET、PUT等常见请求，是后台接口开发者或前端、接口测试人员不可多得的工具 。
 
+- [SlidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/)
+- > 代码高亮
+
 参考:https://github.com/stackia/best-windows-apps
