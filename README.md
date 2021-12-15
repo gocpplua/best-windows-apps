@@ -133,4 +133,7 @@ ApiPost是一个支持团队协作，并可直接生成文档的API调试、管�
 
 - 34、[Meld](https://blog.csdn.net/ITBigGod/article/details/86241657)
 - > linux/ubuntu下的代码对比工具Meld Diff
+
+- 35、 [Enpass](https://www.enpass.io/)
+- > 密码管理器
 参考:https://github.com/stackia/best-windows-apps
