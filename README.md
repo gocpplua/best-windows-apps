@@ -36,11 +36,6 @@ Snipaste is a simple but powerful snipping tool, and also allows you to pin the 
 
 Navicat Premium 是一套数据库开发工具，让你从单一应用程序中同时连接 MySQL、MariaDB、MongoDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库。它与 Amazon RDS、Amazon Aurora、Amazon Redshift、Microsoft Azure、Oracle Cloud、MongoDB Atlas、阿里云、腾讯云和华为云等云数据库兼容。你可以快速轻松地创建、管理和维护数据库。 下载地址中，除了安装包，还有一个破解文件。
 
-- 8、代码Review工具(支持VS2019)：review-assistant([使用链接](https://www.devart.com/review-assistant/docs/index.html?user_guide.html))([我使用的下载链接](https://download.csdn.net/download/chenqiai0/11350797))
-
-Review Assistant 是 Visual Studio 中的一个加载项工具，它的作用是帮你进行代码审查，这样可以大大简化程序员的工作，提高效率，并且检查出一些肉眼不容易看到的错误。一个项目三个人可以无限期试用。
-Review Assistant is a  code review tool. Our code review plugin helps you to create review requests and respond to them without leaving Visual Studio. Review Assistant supports TFS, Subversion, Git, Mercurial, and Perforce. Simple setup: up and running in 5 minutes.Review Assistant is free of charge for 1 project with up to 3 participants.
-
 - 9、向日葵X:远控电脑([官方下载链接](https://sunlogin.oray.com/personal/))
 
 全新的向日葵X更加适合个人用户群体，并且带来了更小更快的远控体验，软件大小只有5MB，速度提升了20%-30%。
@@ -76,10 +71,6 @@ Review Assistant is a  code review tool. Our code review plugin helps you to cre
 
 - 15、FileLocator([官方下载链接](https://www.mythicsoft.com/filelocatorlite/download/))
     专业的文件搜索软件，它内置了多种灵活的搜索规则来快速定位文件，如逻辑判断、通配符、正则表达式、日期/属性等，内置脚本支持可以实现更复杂的搜索操作，搜索结果也可保存为 Text、CSV、XML/HTML 等格式存档。
-
-- 16、Wox([官方下载](https://github.com/Wox-launcher/Wox/releases))
-    
-    Wox: An effective launcher for windows。
 
 - 17、f.lux([官方下载](https://justgetflux.com/))
 
