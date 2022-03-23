@@ -131,4 +131,7 @@ ApiPost是一个支持团队协作，并可直接生成文档的API调试、管�
 - 36、 [Worktile](https://worktile.com/)
 - > 项目协助工具
 
+- 37、 [excalidraw](https://excalidraw.com/)
+- >  Excalidraw是一款非常轻量的在线白板工具，可以直接在浏览器打开，轻松绘制具有手绘风格的图形。
+
 参考:https://github.com/stackia/best-windows-apps
