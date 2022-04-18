@@ -96,7 +96,7 @@ FileZilla 客户端是一个快速可靠的、跨平台的FTP,FTPS和SFTP客户�
 
 
 - 24、SourceTree 2.5.5 破解版
-破解方法是创建account.json。 参考文章:[传送门](https://blog.csdn.net/chenqiai0/article/details/83472410)
+> 破解方法是创建account.json。 参考文章:[传送门](https://blog.csdn.net/chenqiai0/article/details/83472410)
 
 - 25、CODELF 一个程序员变量命名的网站:https://unbug.github.io/codelf/
 
