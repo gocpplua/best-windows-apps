@@ -85,6 +85,8 @@ Xshell 7 是更常用的安全终端模拟器，人们可以使用它远程登�
 - 20、RedisDesktopManager
 Redis Desktop Manager（RedisDesktopManager，RDM）是一个快速、简单、支持跨平台的 Redis 桌面管理工具
 
+Ubantu: [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager/blob/master/README.zh-CN.md)
+
 - 21、SourceTree
 由Atlassian开发的免费Git图形界面工具，可以操作任何Git库。
 
