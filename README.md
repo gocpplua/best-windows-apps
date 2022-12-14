@@ -138,4 +138,7 @@ ApiPost是一个支持团队协作，并可直接生成文档的API调试、管�
 - 37、 [excalidraw](https://excalidraw.com/)
 - >  Excalidraw是一款非常轻量的在线白板工具，可以直接在浏览器打开，轻松绘制具有手绘风格的图形。
 
+- 38、[miniserve](https://github.com/svenstaro/miniserve)
+- > 通过 HTTP 提供文件和目录的 CLI 工具
+
 参考:https://github.com/stackia/best-windows-apps
