@@ -141,4 +141,7 @@ ApiPost是一个支持团队协作，并可直接生成文档的API调试、管�
 - 38、[miniserve](https://github.com/svenstaro/miniserve)
 - > 通过 HTTP 提供文件和目录的 CLI 工具
 
+- 39、Rubick && Utools
+- > 插件化桌面端效率工具箱
+
 参考:https://github.com/stackia/best-windows-apps
