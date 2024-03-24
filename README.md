@@ -144,4 +144,7 @@ ApiPost是一个支持团队协作，并可直接生成文档的API调试、管�
 - 39、Rubick && Utools
 - > 插件化桌面端效率工具箱
 
+- 40、 录屏软件
+- >  ScreenToGif  和 GifCam
+
 参考:https://github.com/stackia/best-windows-apps
