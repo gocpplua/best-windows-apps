@@ -149,4 +149,6 @@ ApiPost是一个支持团队协作，并可直接生成文档的API调试、管�
 
 - 41、项目管理工具 trello
 
+- 42、obsidian / notion
+
 参考:https://github.com/stackia/best-windows-apps
