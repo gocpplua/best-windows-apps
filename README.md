@@ -36,7 +36,7 @@ Snipaste is a simple but powerful snipping tool, and also allows you to pin the 
 
 Navicat Premium 是一套数据库开发工具，让你从单一应用程序中同时连接 MySQL、MariaDB、MongoDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库。它与 Amazon RDS、Amazon Aurora、Amazon Redshift、Microsoft Azure、Oracle Cloud、MongoDB Atlas、阿里云、腾讯云和华为云等云数据库兼容。你可以快速轻松地创建、管理和维护数据库。 下载地址中，除了安装包，还有一个破解文件。
 
-- 8、 Dorado 标注工具
+- 8、 Dorado 标注工具([官方下载链接](http://www.getmarkman.com/#/download-modal))
 
 - 9、向日葵X:远控电脑([官方下载链接](https://sunlogin.oray.com/personal/))
 
